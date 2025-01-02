@@ -1,0 +1,20 @@
+body{
+  background-color: rgb(24, 21, 21);
+  display: flex;
+  align-content: center;
+  justify-content: center;
+}
+
+.divpixel {
+  width: 30px;
+  height: 30px;
+  border: 3px solid #534c4c;
+  padding: 0;
+  margin: 0;
+  float: left;
+}
+.divpixelnew {
+  width: 30px;
+  height: 30px;
+  border: 4px solid #534c4c;
+}
